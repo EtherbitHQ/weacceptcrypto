@@ -1,0 +1,34 @@
+{
+  "name": "Etherbit",
+  "tagline": "Cryptocurrency gadget store",
+  "links": {
+    "website": "https://www.etherbit.in/",
+    "email": "sales@etherbit.in",
+    "facebook": "etherbithq",
+    "twitter": "etherbithq",
+    "instagram": "etherbithq",
+    "medium": "etherbit",
+    "linkedin": "etherbit"
+  },
+  "location": {
+    "city": "Surat",
+    "state": "Gujarat"
+  },
+  "description": [
+    "Founded in 2017, Etherbit is the first ecommerce store in India dedicated to crypto. Etherbit is an authorised reseller of Ledger & Trezor in India."
+  ],
+  "logo": {
+    "image": "etherbit.svg",
+    "height": "25px"
+  },
+  "colors": {
+    "background": [
+      "#1991e6",
+      "#0077cc"
+    ],
+    "text": "#e7f4fe"
+  },
+  "tags": [
+    "ecommerce"
+  ]
+}
