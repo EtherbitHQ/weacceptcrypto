@@ -1,0 +1,32 @@
+{
+  "name": "Unocoin",
+  "tagline": "India's home for digital currency",
+  "links": {
+    "website": "https://www.unocoin.com/in",
+    "email": "support@unocoin.com",
+    "facebook": "unocoin",
+    "twitter": "Unocoin",
+    "instagram": "unocoin",
+    "medium": "@unocoin",
+    "linkedin": "unocoin"
+  },
+  "location": {
+    "city": "Bangalore",
+    "state": "Karnataka"
+  },
+  "description": [
+    "Founded in July 2013, Unocoin was India’s first entrant in the bitcoin space. We started out at Tumkur, Karnataka and later shifted our operations to Bengaluru.",
+    "Our unwavering focus is on emerging as a top global player in the cryptoassets arena and contribute to the Indian as well as global economy. Unocoin has transformed into one of the most popular Bitcoin and Ethereum platform in recent times. In order to provide better services, many other components were added to our ecosystem. We believe that continuously supporting good and best quality service is the best way to develop this industry. We will continue to improve our services, as we are committed to render the best. However, for Unocoin, this is far from enough."
+  ],
+  "logo": {
+    "image": "unocoin.png",
+    "height": "28px"
+  },
+  "colors": {
+    "background": "#fff",
+    "text": "#4dbdbc"
+  },
+  "tags": [
+    "exchange"
+  ]
+}

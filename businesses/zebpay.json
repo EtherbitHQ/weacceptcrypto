@@ -1,0 +1,32 @@
+{
+  "name": "ZebPay",
+  "tagline": "Buy/Sell Crypto Instantly",
+  "links": {
+    "website": "https://www.zebpay.com/",
+    "email": "support@zebpay.com",
+    "facebook": "zebpay",
+    "twitter": "zebpay",
+    "instagram": "zebpayofficial",
+    "medium": "@zebpay",
+    "linkedin": "zebpay"
+  },
+  "location": {
+    "city": "Melbourne",
+    "state": "Victoria"
+  },
+  "description": [
+    "In the business of cryptocurrencies since the year 2014, ZebPay has served over 3 Million crypto users across the globe, and has enabled fiat transactions worth over $2 Billion on its robust web and mobile platforms.",
+    "As the torch bearers of liberating crypto from all shackles, ZebPay invites crypto enthusiasts from 162 countries across the globe to buy/sell crypto instantly & securely at the most competitive prices."
+  ],
+  "logo": {
+    "image": "zebpay.png",
+    "height": "25px"
+  },
+  "colors": {
+    "background": "#fff",
+    "text": "#2072ef"
+  },
+  "tags": [
+    "exchange"
+  ]
+}

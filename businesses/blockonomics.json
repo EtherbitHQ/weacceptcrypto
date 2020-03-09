@@ -1,0 +1,30 @@
+{
+  "name": "Blockonomics",
+  "tagline": "Decentralized and permissionless Bitcoin payment solution",
+  "links": {
+    "website": "https://www.blockonomics.co/",
+    "email": "webmaster@blockonomics.co",
+    "facebook": "https://www.facebook.com/pages/Blockonomics/1619324884975855",
+    "twitter": "blockonomics_co",
+    "medium": "blockonomics-blog",
+    "linkedin": "blockonomics.co"
+  },
+  "location": {
+    "city": "Hyderabad",
+    "state": "Telangana"
+  },
+  "description": [
+    "Blockonomics is a decentralized and permissionless bitcoin payment solution. Our services enhance the wallets you already own. Accept Bitcoin directly. Invoice anonymously. Be your own bank We are huge fans of decentralization and cryptography. We love to hear back from you."
+  ],
+  "logo": {
+    "image": "blockonomics.svg",
+    "height": "28px"
+  },
+  "colors": {
+    "background": "#fff",
+    "text": "#40C381"
+  },
+  "tags": [
+    "payment"
+  ]
+}
