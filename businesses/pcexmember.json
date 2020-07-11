@@ -1,0 +1,32 @@
+{
+  "name": "PCEX Member",
+  "tagline": "Buy/Sell Crypto Instantly",
+  "links": {
+    "website": "https://www.pcexmember.in/",
+    "email": "info@pcexmember.in",
+    "facebook": "pcexmember",
+    "twitter": "pcexmember",
+    "instagram": "pcexmember",
+    "medium": "@pcex-member",
+    "linkedin": "pcex-member"
+  },
+  "location": {
+    "city": "New Delhi,
+    "state": "Delhi"
+  },
+  "description": [
+    "PCEX Member is the most trusted and best place to buy, sell, & trade (BTC), (ETH), (USDT), (BCH), & more crypto assets in India. Trade in USDT, USD or INR market with high volume & liquidity!",
+    "PCEX Member is a high-caliber crypto trading platform with numerous promising features that will help the end-users to leverage a secure trading experience. We take pride in being one of the safest Bitcoin and Altcoin exchanges in the market, serving worldwide."
+  ],
+  "logo": {
+    "image": "pcexmember.png",
+    "height": "25px"
+  },
+  "colors": {
+    "background": "#fff",
+    "text": "#2072ef"
+  },
+  "tags": [
+    "exchange"
+  ]
+}
